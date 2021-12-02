@@ -1,0 +1,4 @@
+Written in early 2013 by a young https://github.com/w4, to have a go
+at injecting code into an obfuscated game using ASM and reflection.
+
+ASM: https://asm.ow2.io/
